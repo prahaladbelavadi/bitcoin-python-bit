@@ -17,3 +17,5 @@ print (key.to_wif())
 print (key.to_hex())
 # Print to be exported private key in integer Format
 print (key.to_int())
+# Print to be exported private key
+print (key.to_pem())
