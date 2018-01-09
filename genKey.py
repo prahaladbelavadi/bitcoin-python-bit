@@ -15,3 +15,5 @@ print (key.address)
 print (key.to_wif())
 # Print export private key in hex format
 print (key.to_hex())
+# Print to be exported private key in integer Format
+print (key.to_int())
